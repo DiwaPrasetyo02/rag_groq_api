@@ -1,0 +1,35 @@
+# Python = 3.12
+# LangChain dan LlamaIndex
+langchain-community==0.2.1
+llama-index==0.9.47
+
+# FastAPI 
+fastapi==0.110.0
+
+# ChromaDB 
+chromadb==0.4.24
+
+# Pydantic
+pydantic==2.6.1
+pydantic-core==2.16.3
+
+# Requests
+requests==2.31.0
+
+# Uvicorn
+uvicorn==0.27.1
+
+# PyPDFLoader
+langchain-community==0.2.1
+
+# ChromaDB utilities
+chromadb-utils==0.4.24
+
+# Embedding function utilities
+sentence-transformers==2.2.2
+
+# Pendukung
+python-multipart==0.0.9
+
+# Async context manager
+async-timeout==4.0.3
